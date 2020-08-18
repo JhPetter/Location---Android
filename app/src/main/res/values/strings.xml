@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="latLong">Longitude: %.3f, Latitude: %.3f</string>
+    <string name="enable_gps">Please enable your gps</string>
+    <string name="permission_request">App requires location permission</string>
+
+    <string name="location_not_active">Your location is disable</string>
+    <string name="location_text_active">To use this function you need enable your location in your settings</string>
+    <string name="location_active">Enable your location</string>
+</resources>
